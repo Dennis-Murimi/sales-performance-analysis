@@ -37,7 +37,6 @@ The analysis aimed to answer:
 
 ## 🔄 Project Workflow
 
-```text
 Raw Data
    ↓
 Data Cleaning
